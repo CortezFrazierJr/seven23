@@ -69,7 +69,7 @@
     "@mui/icons-material": "^5.8.0",
     "@mui/lab": "^5.0.0-alpha.83",
     "@mui/material": "^5.8.1",
-    "@mui/styles": "^5.8.0",
+    "@mui/styles": "^5.9.3",
     "@sentry/browser": "^6.18.2",
     "@sentry/webpack-plugin": "^1.18.8",
     "@stripe/stripe-js": "^1.26.0",
