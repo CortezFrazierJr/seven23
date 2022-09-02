@@ -68,7 +68,7 @@
     "@emotion/styled": "^11.8.1",
     "@mui/icons-material": "^5.8.0",
     "@mui/lab": "^5.0.0-alpha.83",
-    "@mui/material": "^5.8.1",
+    "@mui/material": "^5.10.0",
     "@mui/styles": "^5.8.0",
     "@sentry/browser": "^6.18.2",
     "@sentry/webpack-plugin": "^1.18.8",
