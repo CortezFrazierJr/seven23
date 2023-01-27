@@ -30,3 +30,5 @@ nvm use
 npm i
 npm start
 ```
+
+testing status checks part 2 
