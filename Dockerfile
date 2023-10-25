@@ -8,6 +8,6 @@ COPY . /app
 RUN npm run build
 
 # production environment
-FROM nginx:1.17.2-alpine
+FROM nginx:1.25.3-alpine
 COPY --from=build /app/build /usr/share/nginx/html
 RUN sed -ie "s|#error_page[[:blank:]]\+404[[:blank:]]\+.*|error_page 404 /index.html;|" /etc/nginx/conf.d/default.conf
