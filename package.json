@@ -75,7 +75,7 @@
     "@stripe/stripe-js": "^1.26.0",
     "async": "^3.2.3",
     "autosuggest-highlight": "^3.2.1",
-    "axios": "^0.26.1",
+    "axios": "^1.6.0",
     "babel-jest": "^27.5.1",
     "blueimp-md5": "^2.19.0",
     "caniuse-lite": "^1.0.30001325",
