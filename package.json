@@ -71,15 +71,15 @@
     "@mui/material": "^5.8.1",
     "@mui/styles": "^5.8.0",
     "@sentry/browser": "^6.18.2",
-    "@sentry/webpack-plugin": "^1.18.8",
+    "@sentry/webpack-plugin": "^1.20.1",
     "@stripe/stripe-js": "^1.26.0",
     "async": "^3.2.3",
     "autosuggest-highlight": "^3.2.1",
-    "axios": "^0.26.1",
+    "axios": "^1.6.8",
     "babel-jest": "^27.5.1",
     "blueimp-md5": "^2.19.0",
     "caniuse-lite": "^1.0.30001325",
-    "copy-webpack-plugin": "^10.2.4",
+    "copy-webpack-plugin": "^12.0.0",
     "country-flag-emoji": "^1.0.3",
     "d3": "^7.3.0",
     "history": "^5.3.0",
@@ -100,7 +100,7 @@
     "redux-persist": "6.0.0",
     "redux-thunk": "^2.4.1",
     "uuid": "^8.3.2",
-    "workbox-webpack-plugin": "^6.5.1",
+    "workbox-webpack-plugin": "^7.1.0",
     "workbox-window": "^6.5.1"
   }
 }
