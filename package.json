@@ -76,7 +76,7 @@
     "async": "^3.2.3",
     "autosuggest-highlight": "^3.2.1",
     "axios": "^0.26.1",
-    "babel-jest": "^27.5.1",
+    "babel-jest": "^30.0.0",
     "blueimp-md5": "^2.19.0",
     "caniuse-lite": "^1.0.30001325",
     "copy-webpack-plugin": "^10.2.4",
